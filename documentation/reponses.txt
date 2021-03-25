@@ -1,0 +1,32 @@
+
+
+Les réponses aux questions sont dans le fichier pdf "compteRendu.pdf".
+
+Vous trouverez un jar avec toutes les classes dans le dossier "jar".
+
+
+#Usage : 
+Copier le jar "HadoopTP.jar" dans le cluster puis executer les commandes ci-dessous.
+
+##Question 1.1 :
+hadoop jar HadoopTP.jar Question1_1 /data/miserables wordcount1_1
+
+##Question 1.5 : 
+hadoop jar HadoopTP.jar Question1_5 /data/miserables wordcount1_5
+
+##Question 1.6 : 
+hadoop jar HadoopTP.jar Question1_6 /data/miserables wordcount1_6
+
+##Question 1.7 : 
+hadoop jar HadoopTP.jar Question1_7 /data/miserables wordcount1_7
+
+##Question 2.1 : 
+hadoop jar HadoopTP.jar Question2_1 /data/flickr.txt flickr2_1 5
+
+##Question 2.2 : 
+hadoop jar HadoopTP.jar Question2_2 /data/flickr.txt flickr2_2 5
+
+##Question 3 : (résultat dans flickr3_1.passe2)
+hadoop jar HadoopTP.jar Question3_1 /data/flickr.txt flickr3_1 5
+
+

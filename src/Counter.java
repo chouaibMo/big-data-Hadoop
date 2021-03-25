@@ -1,0 +1,4 @@
+
+public enum Counter {
+	NB;
+}
